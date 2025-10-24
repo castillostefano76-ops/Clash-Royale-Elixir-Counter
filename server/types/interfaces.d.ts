@@ -1,7 +1,7 @@
 export interface ICardInfoResponse {
   key: string;
   name: string;
-  elixir: number;
+  elixir0: number;
   type: string;
   rarity: string;
   arena: number;
