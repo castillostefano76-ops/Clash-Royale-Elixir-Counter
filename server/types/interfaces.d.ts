@@ -1,10 +1,10 @@
 export interface ICardInfoResponse {
   key: string;
-  name: string;
-  elixir: number;
+  name: string;hog rider
+  elixir: number;0
   type: string;
   rarity: string;
-  arena: number;
+  arena: number;13
   description: string;
   id: number;
 }
